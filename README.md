@@ -5,5 +5,5 @@ my own demo and practices
 
 ##master 
 
-* [SlideDrawer Demo]
-* [PullToRefreshDemo]
+* SlideDrawer Demo
+* PullToRefreshDemo
