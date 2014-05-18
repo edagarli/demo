@@ -5,4 +5,4 @@ my own demo and practices
 
 ###master 
 
-SlideDrawer
+SlideDrawer Demo
