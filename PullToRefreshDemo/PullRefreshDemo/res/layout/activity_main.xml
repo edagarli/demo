@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" 
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="ListView"
+        android:layout_marginLeft="@dimen/button_margin"
+        android:layout_marginRight="@dimen/button_margin"
+        android:layout_marginTop="@dimen/button_margin"/>
+
+    <Button
+        android:id="@+id/scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="ScrollView"
+        android:layout_marginLeft="@dimen/button_margin"
+        android:layout_marginRight="@dimen/button_margin"
+        android:layout_marginTop="@dimen/button_margin"/>
+
+    <Button
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="WebView"
+        android:layout_marginLeft="@dimen/button_margin"
+        android:layout_marginRight="@dimen/button_margin"
+        android:layout_marginTop="@dimen/button_margin"/>
+    
+</LinearLayout>

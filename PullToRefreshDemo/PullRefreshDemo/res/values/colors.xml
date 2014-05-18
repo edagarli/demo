@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="red">#ff0000</color>
+    
+    <color name="toolbar_gradient_start_color">#33353c</color>
+    <color name="toolbar_gradient_end_color">#272830</color>
+    <!-- 引导页  -->
+    <color name="introduction_enter_textcolor">#666666</color>
+    <!-- 地理位置信息设置框用到的颜色值 -->
+    <color name="white">#ffffffff</color>
+    <drawable name="white_drawable">#ffffffff</drawable>
+    <color name="black">#ff000000</color>
+    <color name="geolocation_permissions_prompt_background">#ffdddddd</color>
+    
+    <color name="ssl_text_label">#ffffffff</color>
+    <!-- 垂搜分类面板网格线的颜色值 -->
+    <color name="grid_left_edge">#e5ffffff</color>
+    <color name="grid_top_edge">#e5ffffff</color>
+    <color name="grid_right_edge">#14000000</color>
+    <color name="grid_bottom_edge">#14000000</color>
+    
+    <color name="button_text_color">#ff333333</color>
+    <color name="title_text_color">#000000</color>
+    
+    <!-- 数字时钟上用到的颜色值 -->
+    <color name="digital_clock_time_textcolor">#ff202020</color>
+    
+    <drawable name="SettingsActivityBackGround">#ffffffff</drawable>
+    <drawable name="null_drawable">#00ffffff</drawable>
+    
+    <drawable name="search_bg_normal">#00ffffff</drawable>
+    <drawable name="search_bg_press">#33000000</drawable>
+    
+    <drawable name="transparent_drawable">#00ffffff</drawable>
+    
+    <!-- 长按弹出菜单 -->
+    <color name="popmenu_textcolor">#ffffffff</color>
+    
+    <!-- 首页菜单分隔线 -->
+    <color name="home_menu_separator_color">#686f75</color>
+
+    <!-- 首页提示气泡 -->
+    <color name="home_zeus_install_pop_textcolor">#FFFFFF</color>
+    
+    <!-- 浏览模块菜单-->
+    <color name="browser_menu_separator_color">#dedede</color>
+    <color name="browser_menu_separator_color_night">#3E3F41</color>
+    <!-- 错误页面文字颜色 -->
+    <color name="browser_error_page_button_text_color">#525252</color>
+    <color name="browser_error_page_button_text_color_night">#98a1aa</color>
+    <color name="browser_error_page_text_color">#999999</color>
+    <color name="browser_error_page_button_color">#222222</color>
+    <color name="browser_error_page_button_color_night">#333333</color>
+    <color name="refurbish_button_color">#105dc5</color>
+    
+    <color name="window_background_color">#E2E2E2</color>
+    
+    <!-- 添加/编辑导航UI的颜色 -->
+    <color name="navigator_input_label">#565656</color>
+    <color name="navigator_input_hint">#cecece</color>
+    
+    <color name="navigator_category_header_text">#222222</color>
+    <color name="navigator_category_dash_line">#e2e2e2</color>
+    
+  
+    <color name="navigator_item_url">#777777</color>
+    
+    <color name="navigator_disable">#cecece</color>
+    
+    <color name="disable">#ffcecece</color>
+    <color name="enable">#ff222222</color>
+    
+    <!-- 导航区（九宫格）相关的颜色 -->
+    <drawable name="navigation_menu_item_bg_press">#4297ff</drawable>
+    
+    <color name="add_ding_text_color">#222222</color>
+    
+    <color name="sug_local_setting_text_color_normal">#626262</color>
+    
+    <color name="sug_local_setting_text_color_press">#FFFFFF</color>
+    
+    <drawable name="spinner_dropdown_item_bg_pressed">#e5e5e5</drawable>
+    <drawable name="spinner_dropdown_item_bg_normal">#ffffff</drawable>
+    
+    <drawable name="bookmarkdir_item_bg_normal">#ffffff</drawable>
+    <drawable name="bookmarkdir_item_bg_pressed">#62A7FF</drawable>
+    
+    <color name="add_bookmark">#ff222222</color>
+    <color name="add_bookmark_disable">#ffa7a7a7</color>
+    
+    <!-- 二维码扫描 -->
+    <color name="viewfinder_laser">#ffff0000</color> 
+    <color name="viewfinder_mask">#7f000000</color>
+    
+    <color name="keyboard_line_dark">#ff000000</color>
+    <color name="keyboard_line_bright">#ff333333</color>
+    
+    <!-- 设置快捷入口 -->
+    <drawable name="settings_quick_entry_enable">#F9F9F9</drawable>
+    <color name="settings_quick_entry_bright">#F9F9F9</color>
+    <color name="settings_quick_entry_dark">#C2C2C2</color>
+    
+    <!-- 本地搜索展示 -->
+    <color name="localsearch_lookall_color">#1E88E2</color>
+    <color name="localsearch_lookall_color_night">#97A0A8</color>
+    
+    <!-- 搜索背景-->
+    <drawable name="search_bg_normal_color">#EEEEEE</drawable>
+    <drawable name="search_bg_night_color">#46484A</drawable>    
+    
+     <!-- 专项搜索结果中主标题的字体颜色，一般用于显示名字 -->
+    <color name="quicksearch_item_text1_color">#222222</color>
+    <!-- 专项搜索结果中副标题的字体颜色，一般用于显示拼音 -->
+    <color name="quicksearch_item_text2_color">#999999</color>
+    <color name="quicksearch_hint_color">#DDDDDD</color>
+    <color name="quicksearch_highlight_color">#0072ff</color>
+    <drawable name="quicksearch_list_divider_color">#e7e7e7</drawable>
+    
+    <color name="widget_introduction_1">#85B7E1</color>
+    <color name="widget_introduction_2">#E6A973</color>
+    <color name="widget_introduction_3">#76AD5A</color>
+    <color name="widget_help">#eaeaea</color>
+    
+    <drawable name="trans_search_widget_pressed">#33e5e5e5</drawable>
+    <drawable name="search_widget_pressed">#14000000</drawable>
+    <drawable name="white_divider">#ffffff</drawable>
+    
+    <!-- 网址大全 -->
+     <color name="baiduservice_itemtxt">#888888</color>
+     <color name="website_bg">#EEEEEE</color>
+     <color name="website_title_color">#222222</color>
+     <color name="navigator_trans_hint">#c60c02</color>
+    <!-- 网址大全end  -->
+    
+    <drawable name="telephone_search_grid_item_normal">#ffffff</drawable>
+    <drawable name="telephone_search_selector_cancel_pressed">#e2e2e2</drawable>
+    <drawable name="telephone_search_selector_cancel_normal">#f5f5f5</drawable>
+    <color name="telephone_search_grid_divider">#e2e2e2</color>
+    
+    <color name="title_hight_color">#222222</color>
+    <color name="title_hight_color_night">#ABB6BF</color>
+    
+    <color name="title_color">#6A6F73</color>
+    <color name="title_color_night">#999999</color>
+    
+    <drawable name="title_color_bg_night">#2A2A2A</drawable>
+    <drawable name="title_color_bg">#F5F5F5</drawable>
+    
+    <color name="home_entrance">#222222</color>
+    
+    <color name="neighbourhood_border_dark">#e2e2e2</color>
+    <color name="neighbourhood_border_light">#ffffff</color>
+    <color name="hotspot_border_dark">#d8d8d8</color>
+    <color name="hotspot_border_light">#f6f6f6</color>
+    
+    <color name="plugin_text_dark">#222222</color>
+    <color name="plugin_text_light">#888888</color>
+    <color name="plugin_text_middle">#555555</color>
+    <color name="plugin_line">#CCCCCC</color>
+    <color name="plugin_tip_frugal">#61AE1B</color>
+    <drawable name="plugin_download_paused">#EEEEEE</drawable>
+    <color name="plugin_download_progress">#4499EA</color>
+    <color name="kernel_restart_color">#1E88E2</color>
+    <drawable name="kernel_installing_bg">#99000000</drawable>
+    
+    <!-- 夜间模式 -->
+    <drawable name="searchbox_bg_night">#46484A</drawable>
+    <drawable name="searchbox_bg">#eeeeee</drawable>
+    <color name="searchbox_text_night">#97a0a8</color>
+    <color name="searchbox_text">#000000</color>
+    <drawable name="searchbox_webview_night_bg">#353535</drawable>
+    
+    <!-- 下载管理 -->
+    <color name="download_title_color">#ffffff</color>
+    <color name="download_title_pressed">#28000000</color>
+    <color name="download_item_title_color">#222222</color>
+    <color name="download_item_sub_left_color">#999999</color>
+    <color name="download_item_sub_right_color">#777777</color>
+    <color name="download_bg_color">#F5F5F5</color>
+    <color name="download_line1_color">#DCDCDC</color>
+    <color name="download_line2_color">#ffffff</color>
+    <color name="download_delete_color">#555555</color>
+    <color name="download_delete_color_disable">#66555555</color>
+    <color name="downloading_progress_bg">#DFDFDF</color>
+    <color name="downloading_run_progress_run">#4499EA</color>
+    <color name="downloading_failed_progress_run">#999999</color>
+    <color name="download_item_press_color">#eeeeee</color>
+    <color name="downloaded_pic_select_color">#66000000</color>
+    
+    <!-- 时钟widget 4.3 -->
+    <color name="widget_divider_color">#33ffffff</color>
+    <color name="widget_clock_pressed">#1Affffff</color>
+    
+    <!-- 类桌面 -->
+    <color name="launcher_title_button_selected">#4C000000</color>
+    <color name="launcher_icon_pressed_color">#4C000000</color>
+    
+    <!-- 截屏分享 -->
+    <drawable name="share_type_normal">#FFFFFF</drawable>
+    <drawable name="share_type_pressed">#F2F2F2</drawable>
+    
+    <!-- 标题栏 -->
+    <drawable name="titlebar_normal_click_background">#0C000000</drawable>
+    <drawable name="titlebar_xsearch_click_background">#4C000000</drawable>
+    <!-- 离线小说 -->
+    <color name="story_read">#4DAC00</color>
+    <color name="story_unread">#F43400</color>
+    <color name="null_color">#00FFFFFF</color>
+    
+    <!-- 发现小说 -->
+    <color name="novel_topbar_background">#F7F7F7</color>
+    <color name="novel_topbar_shelf_color">#9c3a20</color>
+    <color name="novel_topbar_edit_color">#484848</color>
+    <color name="novel_list_item_background">#EEEEEE</color>
+    <color name="novel_list_item_bookname_color">#111111</color>
+    <color name="novel_list_item_readprocess_color">#c00b0b</color>
+    <color name="novel_bottombar_textcolor">#b45137</color>
+    <color name="novel_bottombar_background">#b0000000</color>
+    <color name="novel_newcount_text_color">#32373a</color>
+    <color name="novel_bottom_bar_deltext_color">#646464</color>
+    <color name="novel_bottom_bar_deltext_disbale_color">#64646464</color>
+    <drawable name="novel_topbar_righttext_cliclbg">#08000000</drawable>
+    <drawable name="novel_story_read">#4DAC00</drawable>
+    <drawable name="novel_list_item_bg">#EEEEEE</drawable>
+    <drawable name="novel_list_item_click_bg">#E4E4E4</drawable>
+
+    <!-- 发现 -->
+    <color name="discovery_tab_indicator_text_shadow">#4C000000</color>
+    
+  	<!-- 美图首页图集标题文字色 -->
+    <color name="picture_album_text_color">#333333</color>
+    <!-- 美图首页背景色 -->
+    <color name="picture_album_background_color">#eeeeee</color>
+    <!-- 美图工具栏背景色 -->
+    <color name="picture_action_bar_background_color">#80000000</color>
+    <!-- 美图按下背景色 -->
+    <color name="picture_album_pressed_background_color">#14000000</color>
+    <!-- 美图加载中文字色 -->
+    <color name="picture_loading_text_color">#999999</color>
+    <!-- 美图工具栏按钮按下去的背景色-->
+    <color name="picture_action_bar_item_pressed_color">#1effffff</color>
+    <!-- 下拉刷新界面中最后更新时间的文字色 -->
+    <color name="picture_pullrefresh_last_update_time_color">#c4c4c4</color>
+</resources>
